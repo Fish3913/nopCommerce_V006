@@ -336,3 +336,31 @@
 [INFO ] 18-08-2020 03:50:29.236 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
 [INFO ] 18-08-2020 03:50:40.058 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
 [INFO ] 18-08-2020 03:50:40.059 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 22-02-2021 08:36:27.940 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 22-02-2021 08:36:27.952 TC_LoginTest_001 - **********Starting Tc_LoginTest_001*******************
+[INFO ] 22-02-2021 08:36:27.948 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 22-02-2021 08:36:27.942 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 22-02-2021 08:36:30.652 TC_LoginTest_001 - **********proving login details*******************
+[INFO ] 22-02-2021 08:36:39.046 TC_LoginTest_001 - **********login test passed*******************
+[INFO ] 22-02-2021 08:36:42.989 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 22-02-2021 08:36:45.772 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 22-02-2021 08:36:45.773 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 22-02-2021 08:36:46.945 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 22-02-2021 08:36:46.945 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 22-02-2021 08:36:48.771 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 22-02-2021 08:37:00.218 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 22-02-2021 08:37:00.218 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 08-03-2021 08:44:54.967 TC_LoginTest_001 - **********Starting Tc_LoginTest_001*******************
+[INFO ] 08-03-2021 08:44:54.967 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 08-03-2021 08:44:55.283 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 08-03-2021 08:44:55.363 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 08-03-2021 08:45:06.173 TC_LoginTest_001 - **********proving login details*******************
+[INFO ] 08-03-2021 08:45:11.670 TC_LoginTest_001 - **********login test passed*******************
+[INFO ] 08-03-2021 08:45:14.303 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 08-03-2021 08:45:18.913 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 08-03-2021 08:45:18.914 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 08-03-2021 08:45:21.574 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 08-03-2021 08:45:44.612 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 08-03-2021 08:45:44.612 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 08-03-2021 08:45:47.557 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 08-03-2021 08:45:47.558 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
